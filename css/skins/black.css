@@ -1,0 +1,45 @@
+.header .navbar-light .navbar-toggler-icon::after,
+.header .navbar-light .navbar-toggler-icon::before,
+.header .navbar-light .navbar-toggler-icon,
+.footer,
+.mybtn2,
+.newsletter::before,
+.testimonial .owl-carousel .owl-nav button.owl-next:hover,
+.testimonial .owl-carousel .owl-nav button.owl-prev:hover,
+.testimonial::before,
+.products .owl-carousel .owl-nav button.owl-next,
+.products .owl-carousel .owl-nav button.owl-prev,
+.features .features-item:hover,
+.section-title .title::before,
+.header,
+.home{
+    background-color:  #222222;
+}
+
+.footer .footer-social-links a:hover i,
+.contact .contact-item h5,
+.contact .contact-item .icon i,
+.faq .support a,
+.testimonial .owl-carousel .owl-nav button.owl-next,
+.testimonial .owl-carousel .owl-nav button.owl-prev,
+.testimonial .testiomial-item .client-info h5,
+.products .product-content .product-price .new-price,
+.features .features-item .icon i,
+.about .about-content ul li i,
+.section-title .title,
+.mybtn1,
+.mybtn1:hover{
+    color:  #222222;
+}
+.contact .contact-form .form-control:focus,
+.testimonial .testiomial-item .client-info img{
+    border-color:  #222222;
+}
+.preloader .loader{
+    border-right: 5px solid #222222;
+}
+@media(max-width: 991px){
+.header .navbar #collapsiibleNavbar .nav-item .nav-link{
+    color: #222222;
+}
+}
